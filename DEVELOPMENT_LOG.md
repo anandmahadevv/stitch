@@ -16,3 +16,6 @@
 ## Update (2026-04-02T09:47:28)
 - docs: update API endpoints documentation
 
+## Update (2026-03-19T09:47:28)
+- chore: configure automated deployment scripts
+
