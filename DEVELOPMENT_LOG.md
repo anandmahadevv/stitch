@@ -10,3 +10,6 @@
 ## Update (2026-04-30T09:47:27)
 - test: improve coverage for core logic
 
+## Update (2026-04-16T09:47:28)
+- fix: handle null pointer exception in service layer
+
