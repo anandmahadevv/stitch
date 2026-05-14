@@ -4,3 +4,6 @@
 ## Update (2026-05-28T09:47:27)
 - perf: reduce memory footprint in background workers
 
+## Update (2026-05-14T09:47:27)
+- test: add unit tests for utility functions
+
